@@ -1,4 +1,11 @@
-## Bem vindo(a)! Sou a Ana Ayla!🔆
+
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/10/f2/50/10f250756a572c05bf6bfde171dad0ba.gif" width="700" alt="Banner">
+
+<h2>Bem vindo(a)! Sou a Ana Ayla! 🔆</h2>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
