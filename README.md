@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/10/f2/50/10f250756a572c05bf6bfde171dad0ba.gif" width="700" alt="Banner">
 
-<h2>Bem vindo(a)! Sou a Ana Ayla! 🔆</h2>
+<h2>----------------------------𒀭 Bem vindo(a)! Sou a Ana Ayla! 𒀭 ---------------------------</h2>
 
 
 <div style="display: inline_block"><br>
